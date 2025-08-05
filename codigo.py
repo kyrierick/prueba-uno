@@ -1,4 +1,4 @@
-nombre = "SOY"
+nombre = "pepe"
 apellido = "Dalt0"
 
 print (f"Hola, {nombre} {apellido}" +" como estas?")
