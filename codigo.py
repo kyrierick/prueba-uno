@@ -1,5 +1,5 @@
 nombre = "luquitaas"
-apellido = "Dalt0"
+apellido = "Dalta"
 
 print (f"Hola, {nombre} {apellido}" +" como estas?")
 saludo = "Hola, {nombre} {apellido}"
